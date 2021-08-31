@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://media.giphy.com/media/6hM6w8fVK2tcQ/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello There! My name is Sithum Ravishara. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello!! My name is Sithum Ravishara. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 
 <!-- <h2> About Me <img src = "https://media.giphy.com/media/3orifgbK2qhORanAty/giphy.gif" width = 100px></h2> -->
