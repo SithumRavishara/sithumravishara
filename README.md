@@ -5,7 +5,7 @@
 ---
 
 <h3> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
-<h3> I'm Sithum Ravishara, Following an Information Systems Bachelor of Science (B.Sc.) special degree at Sabaragamuwa University of Sri Lanka. <h3>
+<h3> I am an enthusiastic person in learning new technologies and experiencing new things. Extremely motivated to constantly develop my skills and grow-up professionally. I'm confident in my ability to offering skills in software development. <h3>
 
 <!-- <h2> About Me <img src = "https://media.giphy.com/media/3orifgbK2qhORanAty/giphy.gif" width = 100px></h2> -->
 
